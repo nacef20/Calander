@@ -1,0 +1,111 @@
+
+
+#cal-view-nav-buttons {
+    position: absolute;
+    top: 90px;
+    right: 0px;
+    margin: 40px;
+    
+}
+
+.col-md-4{
+display: flex;
+justify-content: center;
+font-size: 15px;
+color: rgb(240, 17, 66);
+margin: 30px;
+}
+
+#month {
+    border: none;
+    outline: none;
+    cursor: pointer;
+    font-size: 16px;
+    padding: 10px 20px;
+    border-radius: 15px;
+    background-color: black;
+    color: aliceblue;
+    margin: 2px;
+
+   
+    
+  }
+  #week {
+    border: none;
+    outline: none;
+    cursor: pointer;
+    font-size: 16px;
+    padding: 10px 20px;
+    border-radius: 12px;
+    background-color: black;
+    color: aliceblue;
+    margin: 2px;
+
+   
+    
+  }
+  #day {
+    border: none;
+    outline: none;
+    cursor: pointer;
+    font-size: 16px;
+    padding: 10px 20px;
+    border-radius: 10px;
+    background-color: black;
+    color: aliceblue;
+    margin: 2px;
+
+    
+  }
+
+  #previous {
+    border: 2px solid ;
+    outline: none;
+    cursor: pointer;
+    font-size: 16px;
+    padding: 10px;
+    border-radius: 5px;
+  }
+  #next  {
+    border: 2px solid   ;
+    outline: none;
+    cursor: pointer;
+    font-size: 16px;
+    padding: 10px;
+    border-radius: 5px;
+    margin: 20px;
+    
+  }
+    
+  #today {
+    border: none;
+    outline: none;
+    cursor: pointer;
+    font-size: 16px;
+    margin: 20px;
+    border-radius: 5px;
+    padding: 5px ;
+    border: 2px solid ;
+  }
+    
+
+  #cal-date-nav-buttons{
+
+margin:  30px;
+
+
+  }
+
+
+  #title
+ {
+    display: flex;
+    justify-content: center;
+    font-size: 15px;
+    color: rgb(240, 17, 66);
+    background-color: #1A214D;
+    color: #eff1ef;
+    margin-right: 10px;
+
+
+  }
